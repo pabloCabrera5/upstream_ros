@@ -2,5 +2,5 @@
 Changelog for package mastering_ros_demo_pkg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2016-12-11)
+------------------
